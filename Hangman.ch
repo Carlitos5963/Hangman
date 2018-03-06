@@ -1,7 +1,5 @@
 /* File: hangman.c
-* Jose Carlos Gomez - JoseCarlosGomez69@gmail.com
-* Nick Barding - nbardin92@gmail.com
-* Eric Hernandez - Eherny007@yahoo.com
+* Jose Carlos Gomez - Carlos.Gomez5963@gmail.com
 *
 * Displays a game of hangman with options on difficulty of word 
 *
